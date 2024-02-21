@@ -18,5 +18,5 @@
 - EMBY解锁版
 - Jellyfin
 - 
-   2. iOS/mac
-   3. PC
+## 2. iOS/mac
+## 3. PC
