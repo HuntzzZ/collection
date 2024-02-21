@@ -17,6 +17,14 @@
 - 群晖助手
 - EMBY解锁版
 - Jellyfin
+- qbittorrent
+- home assistant
+- authenticator
+- slack
+- juiceSSH
+- telegram
+- tailscale
+- clash
 - 
 ## 2. iOS/mac
 ## 3. PC
