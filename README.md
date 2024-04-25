@@ -1,8 +1,8 @@
 # Nas相关
 
 [123网盘直达链接](https://www.123pan.com/s/wgO8Vv-xdKP3.html)
-## 1. 安卓
-- **DS套件**
+## 一. 安卓
+- **1.DS套件**
     - Active Insight App
     - DS audio App
     - DS cam App
@@ -16,8 +16,12 @@
     - Synology Drive App
     - Synology MailPlus App
     - Synology Photos App
-- **群晖助手**：https://gitee.com/apaipai/dsm_helper/releases
-- **EMBY客户端：**
+ 
+   
+- **2.群晖助手**：https://gitee.com/apaipai/dsm_helper/releases
+
+ 
+- **3.EMBY客户端：**
 > 
 >  **小秘全家桶：** 之前很长一段时间内唯一能用的安卓客户端，并且针对不同情况有各种魔改版本。
 >  
@@ -39,7 +43,7 @@
 >  
 >  **发布地址** https://github.com/AttemptD/AfuseKt-release/releases
   
-- Jellyfin
+- **4.Jellyfin**
 - qbittorrent
 - home assistant
 - authenticator
