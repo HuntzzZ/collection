@@ -55,14 +55,24 @@
 - 
 ## 2. iOS/mac
 ## 3. PC
-- PotPlayer 美化增强
+- PotPlayer 美化增强（Windows Xp 系统建议使用 1.7.19955 版本）
 
-    > Windows Xp 系统建议使用 1.7.19955 版本
-    > 城通盘：https://z701.com/d/12483661-18367259-bcf88e 访问码：3333
-    > 夸克盘：https://pan.quark.cn/s/9236da2a44ea
-    > 天翼云：https://cloud.189.cn/t/mQreueuuiM3u
-    > 蓝奏云：https://www.lanzoui.com/b00zpcsja 密码：6fdn
-    > 阿里云：https://alywp.net/6SFwRp
-    > 123 云：https://www.123pan.com/s/QdiA-2c4mh
+  
+    > `城通盘：https://z701.com/d/12483661-18367259-bcf88e 访问码：3333`
+    >
+    > 
+    > `夸克盘：https://pan.quark.cn/s/9236da2a44ea`
+    >
+    > 
+    > `天翼云：https://cloud.189.cn/t/mQreueuuiM3u`
+    >
+    > 
+    > `蓝奏云：https://www.lanzoui.com/b00zpcsja 密码：6fdn`
+    >
+    > 
+    > `阿里云：https://alywp.net/6SFwRp`
+    >
+    > 
+    > `123 云：https://www.123pan.com/s/QdiA-2c4mh`
 - 
 
