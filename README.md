@@ -16,7 +16,7 @@
     - Synology Drive App
     - Synology MailPlus App
     - Synology Photos App
-- 群晖助手
+- 群晖助手：https://gitee.com/apaipai/dsm_helper/releases
 - EMBY解锁版
 - Jellyfin
 - qbittorrent
