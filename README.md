@@ -21,7 +21,7 @@
 - [**群晖管家**](https://global.synologydownload.com/download/Mobile/Android-DSfinder/2.5.2-449/Android-DSfinder.2.5.2-449.cn.apk)
 - [**DS get App**](https://global.synologydownload.com/download/Mobile/Android-DSdownload/1.12.5-172/Android-DSdownload.1.12.5-172.apk)
 - [**DS note App**](https://global.synologydownload.com/download/Mobile/Android-DSnote/1.11.7-318/Android-DSnote.1.11.7-318.cn.apk)
-- [**DS router App**]()-
+- [**DS video (Android TV)**](https://global.synologydownload.com/download/Mobile/AndroidTV-DSvideo/1.1.7-10060/AndroidTV-DSvideo.1.1.7-10060.apk)
 - [**DS video**](https://global.synologydownload.com/download/Mobile/Android-DSvideo/3.4.7-328/Android-DSvideo.3.4.7-328.cn.apk)
 - [**Synology LiveCam**](https://global.synologydownload.com/download/Mobile/Android-LiveCam/1.1.2-165/Android-LiveCam.1.1.2-165.ww.apk)
 - [**Synology Drive App**](https://global.synologydownload.com/download/Mobile/Android-Drive/3.5.1-940/Android-SynologyDrive.3.5.1-940.cn.apk)
