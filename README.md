@@ -42,14 +42,14 @@
 ### Jellyfin客户端
 
 ### 辅助工具
-- [**qbittorrent**]()-
-- [**home assistant**]()-
-- [**authenticator**]()-
-- [**slack**]()-
-- [**juiceSSH**]()-
-- [**telegram**]()-
-- [**tailscale**]()-
-- [**clash**]()-
+- [**qbittorrent**]()-安卓端qb管理工具
+- [**home assistant**]()-homeassistant安卓端官方版
+- [**authenticator**]()-安卓两步验证授权器
+- [**slack**]()-Slack官方版
+- [**juiceSSH**]()-JuiceSSH官方版
+- [**telegram**]()-懂得都懂，最强聊天工具
+- [**tailscale**]()-组网工具Tascale官方客户端
+- [**clash**]()-魔法小猫咪
 
 ### 其他
 -[****]()-
