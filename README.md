@@ -59,8 +59,9 @@
 -[****]()-
 -[****]()-
 
-## 2. iOS/mac
-## 3. PC
+## iOS/mac
+
+## PC
 - PotPlayer 美化增强（Windows Xp 系统建议使用 1.7.19955 版本）
 
   
