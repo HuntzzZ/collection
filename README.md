@@ -57,7 +57,7 @@
 - [**Pure Live**](https://github.com/liuchuancong/pure_live)-第三方直播播放器,[123盘](https://www.123pan.com/s/Jucxjv-NwYYd.html)
 - [**影视仓**](https://wwtc.lanzouq.com/b0aja4qoj)-TVbox分发应用，蓝奏云提取码：2615
 - [**阅读**](https://github.com/XIU2/Yuedu)-电子书阅读软件天花板，项目内含书源及TTS
-- [****]()-
+- [**Xlist**](https://github.com/xlist-io/xlist)- Alist 客户端，你可以在这里配置多个 Alist 服务器进行文件管理和预览
 
 ## iOS/mac
 
