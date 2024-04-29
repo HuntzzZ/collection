@@ -2,9 +2,19 @@
 
 [123网盘直达链接](https://www.123pan.com/s/wgO8Vv-xdKP3.html)
 
+- [安卓应用](#安卓应用)
+  - [DS APP](#ds-app)
+  - [群晖助手](#群晖助手)
+  - [EMBY客户端](#emby客户端)
+  - []()
+  - []()
+  - []()
+
+
 ## 安卓应用
 
-### DS套件
+### DS APP
+
 - [**Active Insight App**](https://global.synologydownload.com/download/Mobile/Android-ActiveInsight/1.1.0-099/Android-SynologyActiveInsight.1.1.0-99.cn.apk)-Synology Active Insight 是一个透过绑定 Synology 帐户并统一监控多台 Synology NAS 健康状态与效能的解决方案。您可以透过手机应用程式收到系统相关事件以及来自 Synology 的详细的事件排除方式。您也可以在此应用程式监看您的 NAS 效能数据与储存空间使用总结。 
 - [**DS audio App**](https://global.synologydownload.com/download/Mobile/Android-DSaudio/3.15.4-524/Android-DSaudio.3.15.4-524.cn.apk)-以崭新而惬意的方式，在任何有网络联机的地方通过您的 Android 手机及平板电脑聆赏音乐。DS audio 可让您一边浏览 DiskStation 的音乐数据库、一边在背景中进行播放，并于歌曲播放的同时显示歌词。您也能通过简单方便的方式，在所连接的喇叭上控制音乐播放。
 - [**DS cam App**](https://global.synologydownload.com/download/Mobile/Android-DScam/3.8.2-1102/Android-DScam.3.8.2-1102.cn.apk)-DScam可让您在任何有网络联机的地方检视DiskStation上架设的摄像机。您可以串流实时视频、使用触控屏幕控制摄像机角度、搜索并播放事件录像
@@ -20,7 +30,8 @@
 - [**Synology Photos App**](https://global.synologydownload.com/download/Mobile/Android-Photos/2.0.1-454/Android-SynologyPhotos.2.0.1-454.cn.apk)-Synology Photos 为一款灵活且全面的管理工具，可以备份照片并按照时间顺序或文件夹结构浏览。您可以通过自动创建的相册，查看亲人的照片或最爱的旅游景点。也可以精选特定主题的照片以组成相册。轻松掌握珍贵的回忆。
  
    
-### 群晖助手：https://gitee.com/apaipai/dsm_helper/releases
+### 群晖助手
+- 发布地址-https://gitee.com/apaipai/dsm_helper/releases
 
  
 ### EMBY客户端
