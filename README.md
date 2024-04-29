@@ -44,11 +44,11 @@
 ### 辅助工具
 - [**qbittorrent**]()-安卓端qb管理工具
 - [**home assistant**]()-homeassistant安卓端官方版
-- [**authenticator**]()-安卓两步验证授权器
-- [**slack**]()-Slack官方版
-- [**juiceSSH**]()-JuiceSSH官方版
+- [**authenticator**](https://www.123pan.com/s/wgO8Vv-uEuP3.html)-安卓两步验证授权器
+- [**slack**](https://www.123pan.com/s/wgO8Vv-7EuP3.html)-Slack_24.02.20官方版
+- [**juiceSSH**](https://www.123pan.com/s/wgO8Vv-lEuP3.html)-JuiceSSH官方版
 - [**telegram**]()-懂得都懂，最强聊天工具
-- [**tailscale**]()-组网工具Tascale官方客户端
+- [**tailscale**](https://www.123pan.com/s/wgO8Vv-UEuP3.html)-组网工具Tascale官方客户端
 - [**clash**]()-魔法小猫咪
 
 ### 其他
@@ -58,6 +58,7 @@
 - [**影视仓**](https://wwtc.lanzouq.com/b0aja4qoj)-TVbox分发应用，蓝奏云提取码：2615
 - [**阅读**](https://github.com/XIU2/Yuedu)-电子书阅读软件天花板，项目内含书源及TTS
 - [**Xlist**](https://github.com/xlist-io/xlist)- Alist 客户端，你可以在这里配置多个 Alist 服务器进行文件管理和预览
+- [**FolderSyncPro**](https://www.123pan.com/s/wgO8Vv-SEuP3.html)-安卓端文件夹双向同步神器
 
 ## iOS/mac
 
