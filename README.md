@@ -39,15 +39,17 @@
 - [**Iplay**](https://github.com/ourfor/iPlayClient)- 多平台的一款开源的客户端，目前还处于项目早期，可以体验一下试试。
 - [**AfuseKt**](https://github.com/AttemptD/AfuseKt-release/releases)- 一款闭源的安卓客户端，特点是可以连接多个网盘并自动进行刮削。虽然能够连接emby，但使用和播放并不如上述几个。
 
-- Jellyfin客户端
-- qbittorrent
-- home assistant
-- authenticator
-- slack
-- juiceSSH
-- telegram
-- tailscale
-- clash
+### Jellyfin客户端
+
+### 辅助工具
+- [**qbittorrent**]()-
+- [**home assistant**]()-
+- [**authenticator**]()-
+- [**slack**]()-
+- [**juiceSSH**]()-
+- [**telegram**]()-
+- [**tailscale**]()-
+- [**clash**]()-
 - 
 ## 2. iOS/mac
 ## 3. PC
