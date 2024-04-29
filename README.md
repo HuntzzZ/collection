@@ -52,12 +52,12 @@
 - [**clash**]()-魔法小猫咪
 
 ### 其他
--[**我的听书**](https://wwi.lanzoui.com/b05g1bwf)-聚合各方听书书源，折腾性强，[地址2](https://pan.lanzoux.com/b873905)
--[**Sinple Live**](https://github.com/xiaoyaocz/dart_simple_live/releases)-简简单单的看直播
--[**Pure Live**](https://github.com/liuchuancong/pure_live)-第三方直播播放器,[123盘](https://www.123pan.com/s/Jucxjv-NwYYd.html)
--[**影视仓**](https://wwtc.lanzouq.com/b0aja4qoj)-TVbox分发应用，蓝奏云提取码：2615
--[**阅读**](https://github.com/XIU2/Yuedu)-电子书阅读软件天花板，项目内含书源及TTS
--[****]()-
+- [**我的听书**](https://wwi.lanzoui.com/b05g1bwf)-聚合各方听书书源，折腾性强，[地址2](https://pan.lanzoux.com/b873905)
+- [**Sinple Live**](https://github.com/xiaoyaocz/dart_simple_live/releases)-简简单单的看直播
+- [**Pure Live**](https://github.com/liuchuancong/pure_live)-第三方直播播放器,[123盘](https://www.123pan.com/s/Jucxjv-NwYYd.html)
+- [**影视仓**](https://wwtc.lanzouq.com/b0aja4qoj)-TVbox分发应用，蓝奏云提取码：2615
+- [**阅读**](https://github.com/XIU2/Yuedu)-电子书阅读软件天花板，项目内含书源及TTS
+- [****]()-
 
 ## iOS/mac
 
